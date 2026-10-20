@@ -4,11 +4,23 @@
     {
       "from": "maven.neoforged.net",
       "to": "neoforged.forgecdn.net"
+    },
+    {
+      "from": "files.minecraftforge.net/maven",
+      "to": "bmclapi2.bangbang93.com/maven"
+    },
+    {
+      "from": "maven.minecraftforge.net",
+      "to": "bmclapi2.bangbang93.com/maven"
+    },
+    {
+      "from": "repo1.maven.org/maven2",
+      "to": "maven.aliyun.com/repository/public"
     }
   ],
   "packages": 13,
   "files": 9202,
-  "bytes": 225469951,
-  "rewritten_files": 1907,
+  "bytes": 226302412,
+  "rewritten_files": 5426,
   "note": "index/v1 两级 sha256 已按改写后的内容重算，Prism 校验可通过"
 }
