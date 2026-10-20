@@ -1,0 +1,14 @@
+{
+  "generated_from": "https://meta.prismlauncher.org/v1/",
+  "rewrites": [
+    {
+      "from": "maven.neoforged.net",
+      "to": "neoforged.forgecdn.net"
+    }
+  ],
+  "packages": 13,
+  "files": 9202,
+  "bytes": 225469951,
+  "rewritten_files": 1907,
+  "note": "index/v1 两级 sha256 已按改写后的内容重算，Prism 校验可通过"
+}
