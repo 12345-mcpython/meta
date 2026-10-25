@@ -5,7 +5,7 @@
     "versions": [
         {
             "recommended": false,
-            "releaseTime": "2026-08-21T14:36:22+00:00",
+            "releaseTime": "2026-10-21T04:36:26+00:00",
             "sha256": "6cda8ce808ffad46e046fe720b427a38379f05f8cf0c083f02dd7eead70dcb2c",
             "version": "java27"
         },
