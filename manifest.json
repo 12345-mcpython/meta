@@ -19,8 +19,8 @@
     }
   ],
   "packages": 13,
-  "files": 9233,
-  "bytes": 227120871,
-  "rewritten_files": 7355,
+  "files": 9239,
+  "bytes": 227302647,
+  "rewritten_files": 7359,
   "note": "index/v1 两级 sha256 已按改写后的内容重算，Prism 校验可通过"
 }
